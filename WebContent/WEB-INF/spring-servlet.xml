@@ -64,7 +64,7 @@
 		<!-- annotated classes -->
 		<property name="annotatedClasses">
 			<list>
-				<value>restapp.models.AccountOperations</value>
+				<value>restapp.entities.Account</value>
 			</list>
 		</property>
 
